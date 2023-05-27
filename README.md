@@ -1,3 +1,3 @@
 # ubiquitous-garbanzo
+Thhis is a presentation of a series of practice code examples via react files displaying various examples in the context of a specific  tequnique in react .
 
-I will be presenting a series of practice code examples via react files displaying various techniques in rendering components in parent applications .
